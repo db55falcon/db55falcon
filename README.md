@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @db55falcon
-- 👀 I’m interested in the computer science domain, focusing on programming languages and teaching what I know to others
+- 👀 I’m interested in the computer science domain, focusing on programming languages and teaching what I know to others.
 - 🌱 I’m currently learning everything I can! learning is life!
 - 💞️ I’m looking to collaborate on useful, meaningful projects.
 - 📫 Reach me at db55falcon@gmail.com or find me on fiverr if your interested in my tutoring services (botechcode).
