@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @db55falcon
+- 👋 Hi, I’m Falcon....
 - 👀 I’m interested in the computer science domain, focusing on programming languages and teaching what I know to others.
 - 🌱 I’m currently learning everything I can! learning is life!
 - 💞️ I’m looking to collaborate on useful, meaningful projects.
