@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Falcon....Creator of Boost Manager.
+- 👋 Hi, I’m Dave. Im a software developer. I run a custom software buisness and a tutoring company for technology
+- Check out my website at www.codewithdave.com
 - 👀 I’m interested in Programming (Machine Learning(Neural Networks/Deep Learning)) and its associated python libraries/packages
-- 📫 Reach me at pythonwithdave@gmail.com or find me on fiverr if your interested in my Python tutoring services ---> https://www.fiverr.com/s/QyLg7j
+- 📫 Reach me at pythonwithdave@gmail.com
 
 <!---
 db55falcon/db55falcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
